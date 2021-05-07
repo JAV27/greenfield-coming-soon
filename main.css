@@ -32,6 +32,7 @@ body {
     margin: 0;
     color: white;
     font-size: 40px;
+    text-align: center;
 }
 
 .leagues {
@@ -45,20 +46,24 @@ body {
     height: 150px;
 }
 
-.main p.sub {
-    margin-top: 50px;
-    color: white;
-    font-size: 24px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+.league {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
-.main a {
-    color: white;
-    font-size: 18px;
+.league a {
+    margin-top: 10px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
 }
 
-@media only screen and (max-width: 600px) {
+img.showcase {
+    border: 2px solid black;
+}
+
+@media only screen and (max-width: 800px) {
     .top {
         padding: 0 10px;
     }
@@ -71,15 +76,32 @@ body {
         margin: auto;
     }
 
-    .main .leagues .league img {
+    .leagues {
+        flex-direction: column;
+        width: 100%;
+        margin-top: 0;
+    }
+
+    .leagues .league img {
         height: 100px;
     }
 
-    .main {
-        padding: 10px;
+    .league {
+        flex-direction: row;
+        margin-top: 50px;
+        width: 100%;
+        justify-content: space-around;
     }
 
-    .main p.sub {
-        font-size: 14px;
+    .main {
+        height: 100vh;
+        padding: 10px;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .league a {
+        font-size: 12px;
     }
 }
