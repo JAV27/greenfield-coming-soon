@@ -53,14 +53,38 @@ body {
     align-items: center;
 }
 
-.league a {
-    margin-top: 10px;
+.league a, .league p {
+    margin: 10px 0 0 0;
+    text-decoration: underline;
+    cursor: pointer;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: white;
 }
 
 img.showcase {
     border: 2px solid black;
+}
+
+div.modal-image, div.modal-image img{
+    display: none;
+}
+
+img.modal {
+    height: 60vh;
+}
+
+.modal-image p {
+    color: white;
+    margin: 0 0 10px 0;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: underline;
+    font-size: 18px;
+}
+
+div.image {
+    width: 150px;
+    text-align: center;
 }
 
 @media only screen and (max-width: 800px) {
@@ -80,6 +104,7 @@ img.showcase {
         flex-direction: column;
         width: 100%;
         margin-top: 0;
+        padding: 0;
     }
 
     .leagues .league img {
@@ -98,10 +123,14 @@ img.showcase {
         padding: 10px;
         width: 100%;
     }
+
+    div.image {
+        width: 100px;
+    }
 }
 
 @media only screen and (max-width: 400px) {
-    .league a {
+    .league p, .league a {
         font-size: 12px;
     }
 }
