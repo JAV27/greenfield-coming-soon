@@ -52,24 +52,26 @@
 
                 let image = $(this).attr('class')
 
-                $('.leagues').hide()
-                $('p.title').hide()
+                $('.leagues').fadeOut(400, function() {
+                   
+                    $('div.modal-image').show()
 
-                $('div.modal-image').show()
-
-                if(image == "THSSL") {
-                    $('img.hs').show()
-                } else if(image == "showcase") {
-                    $('img.sc').show()
-                }
-
+                    if(image == "THSSL") {
+                        $('img.hs').fadeIn(400)
+                    } else if(image == "showcase") {
+                        $('img.sc').fadeIn(400)
+                    }
+                         
+                })
+            
             });
 
             $('.close').on('click', function() {
-                $('.modal-image').hide()
-                $('.modal-image img').hide()
-                $('.leagues').show()
-                $('p.title').show()
+                $('.modal-image').fadeOut(400, function() {
+                    $('.modal-image img').hide()
+                    $('.leagues').fadeIn(400)
+                })
+                
             })
 
         });
