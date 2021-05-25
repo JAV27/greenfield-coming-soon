@@ -87,6 +87,10 @@ div.image {
     text-align: center;
 }
 
+p.card-text {
+    margin: 0;
+}
+
 @media only screen and (max-width: 800px) {
     .top {
         padding: 0 10px;
