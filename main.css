@@ -2,6 +2,10 @@ body {
     margin: 0;
 }
 
+.row div {
+    margin-top: 25px;
+}
+
 .top {
     display: flex;
     height: 20vh;
@@ -20,12 +24,16 @@ body {
 
 .main {
     background: linear-gradient(#88B04B, #006934);
-    height: 80vh;
+    min-height: 80vh;
     padding: 50px;
     display: flex;
     flex-direction: column;
     align-items: center;
     box-sizing: border-box;
+}
+
+.main.showcase {
+    height: 100%;
 }
 
 .main p.title {
