@@ -18,16 +18,35 @@ function addPlayerCard(el, index) {
 
 function search_players() {
 
+    $('.showcase .row').remove();
+    $('.showcase').append('<div class="row"></div>')
+
     let search = $('.nav input').val().toLowerCase().replace(/\s+/g, '');
+    console.log(search);
 
-    $('.card.player').each(function() {
-        let name = $(this).children('.card-body').children('.card-title').text().toLowerCase().replace(/\s+/g, '');
+    $.getJSON("https://greenfieldleagues.com/players.json", function(data) {
+        
+        let players = data.players;
 
-        if(name == search) {
-            console.log(name)
-        }
+        players.forEach(function(el, index) {
+            let name = el.name.toLowerCase().replace(/\s+/g, '');
 
+            if(name.indexOf(search) >= 0) {
+                addPlayerCard(el, index)
+            }
+
+        });
+    
     });
+    
+    // $('.card.player').each(function() {
+    //     let name = $(this).children('.card-body').children('.card-title').text().toLowerCase().replace(/\s+/g, '');
+
+    //     if(name == search) {
+    //         console.log(name)
+    //     }
+
+    // });
 }
 
 $(document).ready(function() {
@@ -39,5 +58,15 @@ $(document).ready(function() {
         players.forEach(addPlayerCard); 
     
     });
+
+    $('.nav button').on('click',search_players)
+
+    $(document).on("keypress", "input", function(e){
+        if(e.which == 13){
+            var inputVal = $(this).val();
+            search_players()
+        }
+    });
+
 
 });
