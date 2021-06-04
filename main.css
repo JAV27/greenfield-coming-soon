@@ -25,6 +25,16 @@ body {
     margin-top: 25px;
 }
 
+.player {
+    min-height: 300px;
+}
+
+.card-body .card-title {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
 .top {
     display: flex;
     height: 20vh;
