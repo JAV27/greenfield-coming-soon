@@ -184,3 +184,42 @@ div.main {
 .schedule .day .game img {
     height: 40px;
 }
+
+/* AWARDS PAGE */
+
+.main.awards {
+    padding: 50px 1%;
+}
+
+.awards .award p.title {
+    color: #666;
+}
+
+.awards .winner {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.awards .winner img  {
+    max-width: 100px;
+}
+
+.awards .winner .info {
+    margin-left: 10%;
+}
+
+.awards .winner p {
+    margin: 0;
+}
+
+.awards .winner p.name {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.awards .winner p:not(.name) {
+    font-style: italic;
+    font-size: 14px;
+    color: #666;
+}
+
