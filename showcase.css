@@ -109,3 +109,78 @@ div.main {
 .players .player p.name {
     font-weight: bold;
 }
+
+/* SCHEDULE PAGE */
+
+.main.schedule {
+    padding: 50px 1%;
+}
+
+.schedule .text {
+    text-align: center;
+}
+
+.schedule .text p {
+    font-style: italic;
+}
+
+.schedule  .text p span {
+    color: blue;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.schedule div.day {
+    margin-top: 50px;
+}
+
+.schedule .day p.day {
+    font-weight: bold;
+    text-align: center;
+}
+
+.schedule .games {
+    font-size: 14px;
+}
+
+.schedule .day .game {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+.schedule .day .game .team1, .schedule .day .game .team2 {
+    display: flex;
+    width: 40%;
+}
+
+.schedule .day .game .team1 {
+    justify-content: flex-end;
+    margin-right: 5px;
+}
+
+.schedule .day .game .team2 {
+    justify-content: flex-start;
+    margin-left: 5px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.schedule .day .game .team1 p {
+    margin-right: 10px;
+}
+
+.schedule .day .game .team2 p {
+    margin-left: 10px;
+}
+
+.schedule .day .game .time {
+    text-align: center;
+    min-width: 45px;
+    width: 10%;
+}
+
+.schedule .day .game img {
+    height: 40px;
+}
