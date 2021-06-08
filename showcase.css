@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.top img {
+    height: 150px;
+}
+
+.top {
+    text-align: center;
+}
+
+.top .nav {
+    display: flex;
+    max-width: 500px;
+    justify-content: space-around;
+    margin: auto;
+}
+
+.top .nav p a {
+    text-decoration: none;
+    color: darkgray;
+}
+
+@media only screen and (max-width: 500px) {
+    .top .nav p a {
+        font-size: 14px;
+    }
+}
+
+.top .nav p a:hover {
+    text-decoration: underline;
+}
+
+.top .nav p a.active {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+div.main {
+    padding: 50px 10%;
+    max-width: 600px;
+    margin: auto;
+}
+
+/* ABOUT PAGE */
+
+.about {
+    color: #666666;
+}
+
+.about p {
+    margin: 0;
+}
+
+.about p.header {
+    font-weight: bold;
+}
+
+.about img.location {
+    width: 80%;
+    max-width: 450px;
+}
+
+.about div.img {
+    text-align: center;
+}
