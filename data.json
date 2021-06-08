@@ -1,0 +1,65 @@
+{
+    "teams": [
+        {
+            "name": "Team 1",
+            "img": "img.jpg",
+            "players": [
+                {
+                    "name": "Player 1",
+                    "num": "1",
+                    "club": "Club Name",
+                    "hs": "High School Name",
+                    "class": "YY",
+                    "positions": [1,2,3,4]
+                },
+                {
+                    "name": "Player 2",
+                    "num": "2",
+                    "club": "Club Name",
+                    "hs": "High School Name",
+                    "class": "YY",
+                    "positions": [1,2,3,4]
+                },
+                {
+                    "name": "Player 3",
+                    "num": "3",
+                    "club": "Club Name",
+                    "hs": "High School Name",
+                    "class": "YY",
+                    "positions": [1,2,3,4]
+                }
+            ]
+        },
+        {
+            "name": "Team 2",
+            "img": "img.jpg",
+            "players": [
+                {
+                    "name": "Player 1",
+                    "num": "1",
+                    "club": "Club Name",
+                    "hs": "High School Name",
+                    "class": "YY",
+                    "positions": [1,2,3,4]
+                },
+                {
+                    "name": "Player 2",
+                    "num": "2",
+                    "club": "Club Name",
+                    "hs": "High School Name",
+                    "class": "YY",
+                    "positions": [1,2,3,4]
+                },
+                {
+                    "name": "Player 3",
+                    "num": "3",
+                    "club": "Club Name",
+                    "hs": "High School Name",
+                    "class": "YY",
+                    "positions": [1,2,3,4]
+                }
+            ]
+        }
+    ]
+
+}

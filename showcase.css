@@ -2,37 +2,37 @@ body {
     font-family: Arial, Helvetica, sans-serif
 }
 
-.top img {
+.head img {
     height: 150px;
 }
 
-.top {
+.head {
     text-align: center;
 }
 
-.top .nav {
+.head .nav {
     display: flex;
     max-width: 500px;
     justify-content: space-around;
     margin: auto;
 }
 
-.top .nav p a {
+.head .nav p a {
     text-decoration: none;
     color: darkgray;
 }
 
 @media only screen and (max-width: 500px) {
-    .top .nav p a {
+    .head .nav p a {
         font-size: 14px;
     }
 }
 
-.top .nav p a:hover {
+.head .nav p a:hover {
     text-decoration: underline;
 }
 
-.top .nav p a.active {
+.head .nav p a.active {
     text-decoration: underline;
     font-weight: bold;
 }
@@ -64,4 +64,50 @@ div.main {
 
 .about div.img {
     text-align: center;
+}
+
+/* PLAYERS PAGE */
+
+.players .team {
+    margin-bottom: 50px;
+}
+
+.players .team .top {
+    display: flex;   
+    align-items: center;
+    padding: 10px;
+}
+
+.players .team .top img {
+    height: 50px;
+}
+
+.players .team .top p {
+    margin-left: 10%;
+    font-weight: bold;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.players .player {
+    display: flex;
+    padding: 10px;
+}
+
+.players .player .info {
+    margin-left: 10%;
+}
+
+.players .player img {
+    height: 50px;
+    width: 50px;
+}
+
+.players .player p {
+    margin: 0;
+    font-size: 14px;
+}
+
+.players .player p.name {
+    font-weight: bold;
 }
