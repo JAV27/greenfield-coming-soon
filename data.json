@@ -116,7 +116,7 @@
                 "club": "tbd",
                 "hs": "tbd",
                 "class": "tbd",
-                "positions": "tbd",
+                "positions": [1,2,3],
                 "playercard": "playercard-award-tbd.png"
             }
         },
