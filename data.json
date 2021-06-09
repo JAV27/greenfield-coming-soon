@@ -35,7 +35,7 @@
             "img": "img.jpg",
             "players": [
                 {
-                    "name": "Player 1",
+                    "name": "Player 1 on team 2",
                     "num": "1",
                     "club": "Club Name",
                     "hs": "High School Name",
@@ -60,6 +60,71 @@
                 }
             ]
         }
+    ],
+    "schedules": [
+        {
+            "date": "Saturday, June 12th",
+            "games": [
+                {
+                    "team1": "Bolts",
+                    "img1": "bolts.png",
+                    "time:": "2 PM",
+                    "team2": "Revolution",
+                    "img2": "revolution.png"
+                },
+                {
+                    "team1": "Revolution",
+                    "img1": "revolution.png",
+                    "time:": "2 PM",
+                    "team2": "Bolts",
+                    "img2": "bolts.png"
+                }
+            ]
+        },
+        {
+            "date": "Sunday, June 13th",
+            "games": [
+                {
+                    "team1": "Bolts",
+                    "img1": "bolts.png",
+                    "time:": "2 PM",
+                    "team2": "Revolution",
+                    "img2": "revolution.png"
+                },
+                {
+                    "team1": "Revolution",
+                    "img1": "revolution.png",
+                    "time:": "2 PM",
+                    "team2": "Bolts",
+                    "img2": "bolts.png"
+                }
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "name": "Showcase Golden Ball",
+            "winner": {
+                "name": "Player 1",
+                "num": "1",
+                "club": "Club Name",
+                "hs": "High School Name",
+                "class": "YY",
+                "positions": [1,2,3,4],
+                "playercard": "pc.png"
+            }
+        },
+        {
+            "name": "Showcase Golden Ball",
+            "winner": {
+                "name": "Player 2",
+                "num": "2",
+                "club": "Club Name",
+                "hs": "High School Name",
+                "class": "YY",
+                "positions": [1,2,3],
+                "playercard": "pc.png"
+            }
+        }
     ]
-
 }
