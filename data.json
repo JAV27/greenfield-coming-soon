@@ -111,17 +111,29 @@
         {
             "name": "Showcase Golden Ball",
             "winner": {
-                "name": "Player 1",
-                "num": "1",
+                "name": "To Be Determined",
+                "num": "tbd",
+                "club": "tbd",
+                "hs": "tbd",
+                "class": "tbd",
+                "positions": "tbd",
+                "playercard": "playercard-award-tbd.png"
+            }
+        },
+        {
+            "name": "Showcase Golden Boot",
+            "winner": {
+                "name": "Player 2",
+                "num": "2",
                 "club": "Club Name",
                 "hs": "High School Name",
                 "class": "YY",
-                "positions": [1,2,3,4],
+                "positions": [1,2,3],
                 "playercard": "pc.png"
             }
         },
         {
-            "name": "Showcase Golden Ball",
+            "name": "Showcase Golden Glove",
             "winner": {
                 "name": "Player 2",
                 "num": "2",
