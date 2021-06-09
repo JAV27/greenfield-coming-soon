@@ -73,17 +73,17 @@
             "games": [
                 {
                     "team1": "Bolts",
-                    "img1": "bolts.png",
-                    "time:": "2 PM",
+                    "img1": "logo-bolts.jpg",
+                    "time": "2 PM",
                     "team2": "Revolution",
-                    "img2": "revolution.png"
+                    "img2": "logo-revs.jpg"
                 },
                 {
                     "team1": "Revolution",
-                    "img1": "revolution.png",
-                    "time:": "2 PM",
+                    "img1": "logo-revs.jpg",
+                    "time": "4 PM",
                     "team2": "Bolts",
-                    "img2": "bolts.png"
+                    "img2": "logo-bolts.jpg"
                 }
             ]
         },
@@ -91,18 +91,18 @@
             "date": "Sunday, June 13th",
             "games": [
                 {
-                    "team1": "Bolts",
-                    "img1": "bolts.png",
-                    "time:": "2 PM",
-                    "team2": "Revolution",
-                    "img2": "revolution.png"
+                    "team1": "NEFC",
+                    "img1": "logo-nefc.jpg",
+                    "time": "3 PM",
+                    "team2": "PS",
+                    "img2": "logo-ps.jpg"
                 },
                 {
-                    "team1": "Revolution",
-                    "img1": "revolution.png",
-                    "time:": "2 PM",
+                    "team1": "Surf",
+                    "img1": "logo-surf.jpg",
+                    "time": "5 PM",
                     "team2": "Bolts",
-                    "img2": "bolts.png"
+                    "img2": "logo-bolts.jpg"
                 }
             ]
         }
