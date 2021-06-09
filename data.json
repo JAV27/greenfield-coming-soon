@@ -2,61 +2,67 @@
     "teams": [
         {
             "name": "Team 1",
-            "img": "img.jpg",
+            "img": "logo-bolts.jpg",
             "players": [
                 {
                     "name": "Player 1",
                     "num": "1",
                     "club": "Club Name",
                     "hs": "High School Name",
-                    "class": "YY",
-                    "positions": [1,2,3,4]
+                    "class": "20",
+                    "positions": [1,2,3],
+                    "img": "logo-surf.jpg"
                 },
                 {
                     "name": "Player 2",
                     "num": "2",
                     "club": "Club Name",
                     "hs": "High School Name",
-                    "class": "YY",
-                    "positions": [1,2,3,4]
+                    "class": "19",
+                    "positions": [2,3,4],
+                    "img": "logo-surf.jpg"
                 },
                 {
                     "name": "Player 3",
                     "num": "3",
                     "club": "Club Name",
                     "hs": "High School Name",
-                    "class": "YY",
-                    "positions": [1,2,3,4]
+                    "class": "21",
+                    "positions": [1,2,4],
+                    "img": "logo-surf.jpg"
                 }
             ]
         },
         {
             "name": "Team 2",
-            "img": "img.jpg",
+            "img": "logo-bolts.jpg",
             "players": [
                 {
                     "name": "Player 1 on team 2",
-                    "num": "1",
+                    "num": "4",
                     "club": "Club Name",
                     "hs": "High School Name",
-                    "class": "YY",
-                    "positions": [1,2,3,4]
+                    "class": "22",
+                    "positions": [1,2,3,4],
+                    "img": "logo-surf.jpg"
                 },
                 {
                     "name": "Player 2",
-                    "num": "2",
+                    "num": "5",
                     "club": "Club Name",
                     "hs": "High School Name",
-                    "class": "YY",
-                    "positions": [1,2,3,4]
+                    "class": "19",
+                    "positions": [1,4],
+                    "img": "logo-surf.jpg"
                 },
                 {
                     "name": "Player 3",
-                    "num": "3",
+                    "num": "6",
                     "club": "Club Name",
                     "hs": "High School Name",
-                    "class": "YY",
-                    "positions": [1,2,3,4]
+                    "class": "20",
+                    "positions": [3,4],
+                    "img": "logo-surf.jpg"
                 }
             ]
         }
