@@ -11,7 +11,7 @@
                     "hs": "High School Name",
                     "class": "20",
                     "positions": [1,2,3],
-                    "img": "logo-surf.jpg"
+                    "img": "player1.png"
                 },
                 {
                     "name": "Player 2",
