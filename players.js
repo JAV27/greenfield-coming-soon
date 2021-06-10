@@ -9,7 +9,7 @@ function addTeam(el, index) {
             <div class="info">
                 <p class="name"> #` + el.num + ` ` + el.name + `</p>
                 <p>` + el.club + `</p>
-                <p>` + el.hs + ` ('` + el.class + `')</p>
+                <p>` + el.hs + ` (` + el.class + `)</p>
                 <p>Positions: ` + el.positions + `</p>
             </div>
         </div>
