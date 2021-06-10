@@ -72,18 +72,25 @@
             "date": "Saturday, June 12th",
             "games": [
                 {
-                    "team1": "Bolts",
-                    "img1": "logo-bolts.jpg",
+                    "team1": "New England Revolution",
+                    "img1": "logo-revs.jpg",
                     "time": "2 PM",
-                    "team2": "Revolution",
-                    "img2": "logo-revs.jpg"
+                    "team2": "Prep Stars Oro",
+                    "img2": "logo-ps.jpg"
                 },
                 {
-                    "team1": "Revolution",
-                    "img1": "logo-revs.jpg",
+                    "team1": "Bolts ECNL 03 04",
+                    "img1": "logo-bolts.jpg",
                     "time": "4 PM",
-                    "team2": "Bolts",
-                    "img2": "logo-bolts.jpg"
+                    "team2": "NEFC ECNL 2004",
+                    "img2": "logo-nefc.jpg"
+                },
+                {
+                    "team1": "NE Surf 2004 State Grey",
+                    "img1": "logo-surf.jpg",
+                    "time": "6 PM",
+                    "team2": "NE Revolution 15s",
+                    "img2": "logo-revs.jpg"
                 }
             ]
         },
@@ -91,18 +98,25 @@
             "date": "Sunday, June 13th",
             "games": [
                 {
-                    "team1": "NEFC",
+                    "team1": "NEFC ECNL 2004",
                     "img1": "logo-nefc.jpg",
-                    "time": "3 PM",
-                    "team2": "PS",
-                    "img2": "logo-ps.jpg"
+                    "time": "10 AM",
+                    "team2": "NE Revolution 15s",
+                    "img2": "logo-revs.jpg"
                 },
                 {
-                    "team1": "Surf",
-                    "img1": "logo-surf.jpg",
-                    "time": "5 PM",
-                    "team2": "Bolts",
-                    "img2": "logo-bolts.jpg"
+                    "team1": "Bolts ECNL 03 04",
+                    "img1": "logo-bolts.jpg",
+                    "time": "1 PM",
+                    "team2": "New England Revolution",
+                    "img2": "logo-revs.jpg"
+                },
+                {
+                    "team1": "Prep Stars Oro",
+                    "img1": "logo-ps.jpg",
+                    "time": "3:30 PM",
+                    "team2": "NE Surf 2004 State Grey",
+                    "img2": "logo-surf.jpg"
                 }
             ]
         }
