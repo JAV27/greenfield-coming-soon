@@ -129,7 +129,7 @@
                 "hs": "High School Name",
                 "class": "YY",
                 "positions": [1,2,3],
-                "playercard": "pc.png"
+                "playercard": "playercard-award-tbd.png"
             }
         },
         {
@@ -141,7 +141,7 @@
                 "hs": "High School Name",
                 "class": "YY",
                 "positions": [1,2,3],
-                "playercard": "pc.png"
+                "playercard": "playercard-award-tbd.png"
             }
         }
     ]
