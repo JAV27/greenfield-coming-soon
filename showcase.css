@@ -239,6 +239,7 @@ div.main {
 
 .awards .winner img  {
     max-width: 100px;
+    max-height: 152px;
 }
 
 .awards .winner .info {
