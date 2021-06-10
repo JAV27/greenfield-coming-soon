@@ -1790,35 +1790,35 @@
             "name": "Showcase Golden Ball",
             "winner": {
                 "name": "To Be Determined",
-                "num": "?",
+                "num": "tbd",
                 "club": "tbd",
                 "hs": "tbd",
-                "class": "tbd",
-                "positions": [1,2,3],
+                "class": "'YY",
+                "positions": null,
                 "playercard": "playercard-award-tbd.png"
             }
         },
         {
             "name": "Showcase Golden Boot",
             "winner": {
-                "name": "Player 2",
-                "num": "2",
-                "club": "Club Name",
-                "hs": "High School Name",
-                "class": "YY",
-                "positions": [1,2,3],
+                "name": "To Be Determined",
+                "num": "tbd",
+                "club": "tbd",
+                "hs": "tbd",
+                "class": "'YY",
+                "positions": null,
                 "playercard": "playercard-award-tbd.png"
             }
         },
         {
             "name": "Showcase Golden Glove",
             "winner": {
-                "name": "Player 2",
-                "num": "2",
-                "club": "Club Name",
-                "hs": "High School Name",
-                "class": "YY",
-                "positions": [1,2,3],
+                "name": "To Be Determined",
+                "num": "tbd",
+                "club": "tbd",
+                "hs": "tbd",
+                "class": "'YY",
+                "positions": null,
                 "playercard": "playercard-award-tbd.png"
             }
         }
