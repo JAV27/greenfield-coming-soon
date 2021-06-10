@@ -1790,9 +1790,9 @@
             "name": "Showcase Golden Ball",
             "winner": {
                 "name": "To Be Determined",
-                "num": "tbd",
-                "club": "tbd",
-                "hs": "tbd",
+                "num": "Jersey Number",
+                "club": "Club Name",
+                "hs": "Highschool Name",
                 "class": "'YY",
                 "positions": null,
                 "playercard": "playercard-award-tbd.png"
@@ -1802,9 +1802,9 @@
             "name": "Showcase Golden Boot",
             "winner": {
                 "name": "To Be Determined",
-                "num": "tbd",
-                "club": "tbd",
-                "hs": "tbd",
+                "num": "Jersey Number",
+                "club": "Club Name",
+                "hs": "Highschool Name",
                 "class": "'YY",
                 "positions": null,
                 "playercard": "playercard-award-tbd.png"
@@ -1814,9 +1814,9 @@
             "name": "Showcase Golden Glove",
             "winner": {
                 "name": "To Be Determined",
-                "num": "tbd",
-                "club": "tbd",
-                "hs": "tbd",
+                "num": "Jersey Number",
+                "club": "Club Name",
+                "hs": "Highschool Name",
                 "class": "'YY",
                 "positions": null,
                 "playercard": "playercard-award-tbd.png"
