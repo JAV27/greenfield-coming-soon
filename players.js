@@ -26,6 +26,9 @@ function addTeam(el, index) {
             <div class="body">
             ` + players + `
             </div>
+            <div>
+                <a href="#top">top</a>
+            </div>
         </div>
     `);
 
