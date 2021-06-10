@@ -68,6 +68,43 @@ div.main {
 
 /* PLAYERS PAGE */
 
+.players .nav {
+    text-align: center;
+    width: 100%;
+    margin-bottom: 25px;
+}
+
+.players .nav input {
+    width: 80%;
+    height: 25px;
+}
+
+.players .nav button {
+    width: 20%;
+    margin-top: 10px;
+    height: 35px;
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+    min-width: 100px;
+    font-size: 16px;
+}
+
+.players .nav button.search {
+    background-color: #0d48db;
+    border: 1px solid #0d48db;
+}
+
+
+.players .nav button.clear {
+    background-color: darkgray;
+    border: 1px solid lightgray;
+}
+
+.players .nav button:hover {
+    text-decoration: underline;
+}
+
 .players .team {
     margin-bottom: 50px;
 }
