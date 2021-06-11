@@ -17,7 +17,7 @@ function addTeam(el, index) {
     });
     
     $('.main.players .teams').append(`
-        <div class="team">
+        <a id="` + el.abbv + `"><div class="team">
             <div class="top">
                 <img src="images/` + el.img + `" alt="">
                 <p>` + el.name + `</p>
@@ -29,7 +29,7 @@ function addTeam(el, index) {
             <div>
                 <a href="#top">top</a>
             </div>
-        </div>
+        </div></a>
     `);
 
 }
