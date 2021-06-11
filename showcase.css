@@ -105,6 +105,32 @@ div.main {
     text-decoration: underline;
 }
 
+.players .abbvs {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+.players .abbvs .abbv {
+    margin: 0 5px;
+}
+
+.players .abbvs .abbv img {
+    height: 50px;
+}
+
+.players .abbvs .abbv p {
+    margin: 0;
+    color: black;
+}
+
+.players .abbvs a {
+    text-decoration: none;
+}
+
 .players .team {
     margin-bottom: 50px;
 }
