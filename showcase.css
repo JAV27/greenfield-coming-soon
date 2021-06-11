@@ -38,7 +38,7 @@ body {
 }
 
 div.main {
-    padding: 50px 10%;
+    padding: 30px 10%;
     max-width: 600px;
     margin: auto;
 }
@@ -176,7 +176,7 @@ div.main {
 /* SCHEDULE PAGE */
 
 .main.schedule {
-    padding: 50px 1%;
+    padding: 30px 1%;
 }
 
 .schedule .text {
