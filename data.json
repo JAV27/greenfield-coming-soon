@@ -1742,7 +1742,7 @@
             "date": "Saturday, June 12th",
             "games": [
                 {
-                    "team1": "New England Revolution",
+                    "team1": "NE Revolution 17s",
                     "img1": "logo-revs.jpg",
                     "time": "2 PM",
                     "team2": "Prep Stars Oro",
@@ -1778,7 +1778,7 @@
                     "team1": "Bolts ECNL 03 04",
                     "img1": "logo-bolts.jpg",
                     "time": "1 PM",
-                    "team2": "New England Revolution",
+                    "team2": "NE Revolution 17s",
                     "img2": "logo-revs.jpg"
                 },
                 {
@@ -1796,7 +1796,7 @@
             "name": "Showcase Golden Ball",
             "winner": {
                 "name": "To Be Determined",
-                "num": "Jersey Number",
+                "num": "?",
                 "club": "Club Name",
                 "hs": "Highschool Name",
                 "class": "'YY",
@@ -1808,7 +1808,7 @@
             "name": "Showcase Golden Boot",
             "winner": {
                 "name": "To Be Determined",
-                "num": "Jersey Number",
+                "num": "?",
                 "club": "Club Name",
                 "hs": "Highschool Name",
                 "class": "'YY",
@@ -1820,7 +1820,7 @@
             "name": "Showcase Golden Glove",
             "winner": {
                 "name": "To Be Determined",
-                "num": "Jersey Number",
+                "num": "?",
                 "club": "Club Name",
                 "hs": "Highschool Name",
                 "class": "'YY",
