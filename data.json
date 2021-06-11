@@ -3,6 +3,7 @@
         {
             "name": "Bolts ECNL 03 04",
             "img": "logo-bolts.jpg",
+            "abbv": "bolts",
             "players": [
                 {
                     "tpid": "60b7e929520893919c9cee92",
@@ -261,6 +262,7 @@
         {
             "name": "NE Revolution 15s",
             "img": "logo-revs.jpg",
+            "abbv": "revs1",
             "players": [
                 {
                     "tpid": "60c10626589d8d23d218bbaa",
@@ -533,6 +535,7 @@
         {
             "name": "NE Revolution 17s",
             "img": "logo-revs.jpg",
+            "abbv": "revs2",
             "players": [
                 {
                     "tpid": "60b7e92a5208932fd59ceeab",
@@ -875,6 +878,7 @@
         {
             "name": "NE Surf 2004 State Grey",
             "img": "logo-surf.jpg",
+            "abbv": "surf",
             "players": [
                 {
                     "tpid": "60b7e92b52089366269ceef8",
@@ -1147,6 +1151,7 @@
         {
             "name": "NEFC ECNL 2004",
             "img": "logo-nefc.jpg",
+            "abbv": "nefc",
             "players": [
                 {
                     "tpid": "60bba2462969bc9aa8342c78",
@@ -1447,6 +1452,7 @@
         {
             "name": "Prep Stars Oro",
             "img": "logo-ps.jpg",
+            "abbv": "ps",
             "players": [
                 {
                     "tpid": "60b7e92952089378fb9cee9b",
