@@ -1539,18 +1539,18 @@
                     "img": "60b7e929520893ba539cee7b_Msiza_Athi.png"
                 },
                 {
-                    "tpid": "60b9059b52089318919cef46",
+                    "tpid": "60b7e9295208939d159cee90",
                     "ttid": "60b7e92852089344749cee34",
-                    "name": "Jack Brown",
-                    "num": 22,
+                    "name": "Aidan Auclair",
+                    "num": 7,
                     "club": "Prep Stars",
                     "team": "Prep Stars Oro",
-                    "hs": "Brooks School",
+                    "hs": "Worcester Academy ",
                     "class": "'22",
-                    "positions": "9",
+                    "positions": "7, 9, 11, 10",
                     "committed": "No",
                     "commitedto": null,
-                    "img": "60b9059b52089318919cef46_Brown_Jack.png"
+                    "img": "60b7e9295208939d159cee90_Auclair_Aidan.png"
                 },
                 {
                     "tpid": "60b7e929520893ad5c9cee8a",
@@ -1565,20 +1565,6 @@
                     "committed": "No",
                     "commitedto": null,
                     "img": "60b7e929520893ad5c9cee8a_Martin_Oliver.png"
-                },
-                {
-                    "tpid": "60b8dcc71353ead588ec4df3",
-                    "ttid": "60b7e92852089344749cee34",
-                    "name": "Jacob Sardinha",
-                    "num": 27,
-                    "club": "Prep Stars",
-                    "team": "Prep Stars Oro",
-                    "hs": "The Rivers School",
-                    "class": "'23",
-                    "positions": "6, 8",
-                    "committed": "No",
-                    "commitedto": null,
-                    "img": "60b8dcc71353ead588ec4df3_Sardinha_Jacob.png"
                 },
                 {
                     "tpid": "60b7e92952089334b69cee7f",
@@ -1621,20 +1607,6 @@
                     "committed": "No",
                     "commitedto": null,
                     "img": "60b7e9295208935dbe9cee80_MacGillivray_Griffin.png"
-                },
-                {
-                    "tpid": "60b7e9295208939d159cee90",
-                    "ttid": "60b7e92852089344749cee34",
-                    "name": "Aidan Auclair",
-                    "num": 7,
-                    "club": "Prep Stars",
-                    "team": "Prep Stars Oro",
-                    "hs": "Worcester Academy ",
-                    "class": "'22",
-                    "positions": "7, 9, 11, 10",
-                    "committed": "No",
-                    "commitedto": null,
-                    "img": "60b7e9295208939d159cee90_Auclair_Aidan.png"
                 },
                 {
                     "tpid": "60b7e92952089320ae9cee58",
@@ -1733,7 +1705,35 @@
                     "committed": "No",
                     "commitedto": null,
                     "img": "60b7e9295208930c7d9cee7c_Hannibal_Evan.png"
-                }         
+                },
+                {
+                    "tpid": "60b9059b52089318919cef46",
+                    "ttid": "60b7e92852089344749cee34",
+                    "name": "Jack Brown",
+                    "num": 22,
+                    "club": "Prep Stars",
+                    "team": "Prep Stars Oro",
+                    "hs": "Brooks School",
+                    "class": "'22",
+                    "positions": "9",
+                    "committed": "No",
+                    "commitedto": null,
+                    "img": "60b9059b52089318919cef46_Brown_Jack.png"
+                },
+                {
+                    "tpid": "60b8dcc71353ead588ec4df3",
+                    "ttid": "60b7e92852089344749cee34",
+                    "name": "Jacob Sardinha",
+                    "num": 27,
+                    "club": "Prep Stars",
+                    "team": "Prep Stars Oro",
+                    "hs": "The Rivers School",
+                    "class": "'23",
+                    "positions": "6, 8",
+                    "committed": "No",
+                    "commitedto": null,
+                    "img": "60b8dcc71353ead588ec4df3_Sardinha_Jacob.png"
+                }
             ]
         }
     ],
