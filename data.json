@@ -1553,6 +1553,20 @@
                     "img": "60b7e9295208939d159cee90_Auclair_Aidan.png"
                 },
                 {
+                    "tpid": "60b81a1a1353ea3357ec4ddf",
+                    "ttid": "60b7e92852089344749cee34",
+                    "name": "Triton Beauvois",
+                    "num": 8,
+                    "club": "Prep Stars",
+                    "team": "Prep Stars Oro",
+                    "hs": "Milton Academy",
+                    "class": "'23",
+                    "positions": null,
+                    "committed": "No",
+                    "commitedto": null,
+                    "img": "60b81a1a1353ea3357ec4ddf_Beauvois_Triton.png"
+                },
+                {
                     "tpid": "60b7e929520893ad5c9cee8a",
                     "ttid": "60b7e92852089344749cee34",
                     "name": "Oliver Martin",
@@ -1635,20 +1649,6 @@
                     "committed": "No",
                     "commitedto": null,
                     "img": "60b801f452089302909cef23_Nako_Boid.png"
-                },
-                {
-                    "tpid": "60b81a1a1353ea3357ec4ddf",
-                    "ttid": "60b7e92852089344749cee34",
-                    "name": "Triton Beauvois",
-                    "num": 8,
-                    "club": "Prep Stars",
-                    "team": "Prep Stars Oro",
-                    "hs": "Milton Academy",
-                    "class": "'23",
-                    "positions": null,
-                    "committed": "No",
-                    "commitedto": null,
-                    "img": "60b81a1a1353ea3357ec4ddf_Beauvois_Triton.png"
                 },
                 {
                     "tpid": "60b81cee1353ea9041ec4de3",
