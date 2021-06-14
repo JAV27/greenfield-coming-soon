@@ -1795,25 +1795,25 @@
         {
             "name": "Showcase Golden Ball",
             "winner": {
-                "name": "To Be Determined",
-                "num": "?",
-                "club": "Club Name",
-                "hs": "Highschool Name",
-                "class": "'YY",
-                "positions": null,
-                "playercard": "playercard-award-tbd.png"
+                "name": "Andrew Millar (committed to UVM)",
+                "num": "8",
+                "club": "NE Surf 2004 State Grey",
+                "hs": "Cambridge Rindge and Latin",
+                "class": "'22",
+                "positions": "6,8",
+                "playercard": "GoldenBall.png"
             }
         },
         {
-            "name": "Showcase Golden Boot",
+            "name": "Showcase Golden Boot (Shared w/ 5 goals each)",
             "winner": {
-                "name": "To Be Determined",
-                "num": "?",
-                "club": "Club Name",
-                "hs": "Highschool Name",
-                "class": "'YY",
-                "positions": null,
-                "playercard": "playercard-award-tbd.png"
+                "name": "Luke Randolph / Jack Panayoutou",
+                "num": "11 / 47",
+                "club": "NE Surf 2004 State Grey / NE Revolution 17s",
+                "hs": "Milton Academy / Revolution Academy",
+                "class": "'22 / '22",
+                "positions": "7, 9, 10, 11 / 9,
+                "playercard": "GoldenBoot.png"
             }
         },
         {
