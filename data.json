@@ -1819,13 +1819,13 @@
         {
             "name": "Showcase Golden Glove",
             "winner": {
-                "name": "To Be Determined",
-                "num": "?",
-                "club": "Club Name",
-                "hs": "Highschool Name",
-                "class": "'YY",
-                "positions": null,
-                "playercard": "playercard-award-tbd.png"
+                "name": "Nicola Antic",
+                "num": "1",
+                "club": "Bolts ECNL 03 04",
+                "hs": "The Rivers School",
+                "class": "'22",
+                "positions": 1,
+                "playercard": "GoldenGlove.png"
             }
         }
     ]
