@@ -287,3 +287,44 @@ div.main {
     color: #666;
 }
 
+
+/* AWARDS PAGE 2*/
+
+.main.awards2 {
+    padding: 50px 1%;
+}
+
+.awards2 .award2 p.title {
+    color: #666;
+}
+
+.awards2 .winner2 {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.awards2 .winner2 img  {
+    max-width: 100px;
+    max-height: 152px;
+}
+
+.awards2 .winner2 .info {
+    margin-left: 10%;
+}
+
+.awards2 .winner2 p {
+    margin: 0;
+}
+
+.awards2 .winner2 p.name {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.awards2 .winner2 p:not(.name) {
+    font-style: italic;
+    font-size: 14px;
+    color: #666;
+}
+
+
