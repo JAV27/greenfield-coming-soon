@@ -1819,12 +1819,12 @@
         {
             "name": "Showcase Golden Boot (Shared, 5 goals each )",
             "winner": {
-                "name": "Jack Panayoutou",
+                "name": "Jack Panayotou",
                 "num": "47",
                 "club": "NE Revolution 17s",
-                "hs": "Revolution Academy",
+                "hs": "BB&N",
                 "class": "'22",
-                "positions": "9",
+                "positions": "8,10",
                 "playercard": "GoldenBoot_Sb.png"
             }
         },
