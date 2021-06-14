@@ -1805,6 +1805,18 @@
             }
         },
         {
+            "name": "Showcase Golden Boot",
+            "winner": {
+                "name": "Luke Randolph",
+                "num": "11",
+                "club": "NE Surf 2004 State Grey",
+                "hs": "Milton Academy",
+                "class": "'22",
+                "positions": "7,9,10,11",
+                "playercard": "GoldenBoot_Sa.png"
+            }
+        },
+        {
             "name": "Showcase Golden Glove",
             "winner": {
                 "name": "Nicola Antic",
