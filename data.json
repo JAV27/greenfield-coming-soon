@@ -1805,7 +1805,7 @@
             }
         },
         {
-            "name": "Showcase Golden Boot",
+            "name": "Showcase Golden Boot (Shared, 5 goals each)",
             "winner": {
                 "name": "Luke Randolph",
                 "num": "11",
@@ -1814,6 +1814,18 @@
                 "class": "'22",
                 "positions": "7,9,10,11",
                 "playercard": "GoldenBoot_Sa.png"
+            }
+        },
+        {
+            "name": "Showcase Golden Boot (Shared, 5 goals each )",
+            "winner": {
+                "name": "Jack Panayoutou",
+                "num": "47",
+                "club": "NE Revolution 17s",
+                "hs": "Revolution Academy",
+                "class": "'22",
+                "positions": "9",
+                "playercard": "GoldenBoot_Sb.png"
             }
         },
         {
