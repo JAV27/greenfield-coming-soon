@@ -1805,18 +1805,6 @@
             }
         },
         {
-            "name": "Showcase Golden Boot (Shared w/ 5 goals each)",
-            "winner": {
-                "name": "Luke Randolph / Jack Panayoutou",
-                "num": "11 / 47",
-                "club": "NE Surf 2004 State Grey / NE Revolution 17s",
-                "hs": "Milton Academy / Revolution Academy",
-                "class": "'22 / '22",
-                "positions": "7, 9, 10, 11 / 9"
-                "playercard": "GoldenBoot.png"
-            }
-        },
-        {
             "name": "Showcase Golden Glove",
             "winner": {
                 "name": "Nicola Antic",
