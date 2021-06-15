@@ -304,8 +304,8 @@ div.main {
 }
 
 .awards2 .winner2 img  {
-    max-width: 100px;
-    max-height: 152px;
+    height: 50px;
+    width: 50px;
 }
 
 .awards2 .winner2 .info2 {
